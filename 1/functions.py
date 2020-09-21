@@ -98,12 +98,12 @@ def batch_gradient_descent(x1, x2, y):
     return w0, w1, w2, cost, w1_list, w2_list
 
 
-def plot2d(label1, label2, y):
+def plot2d(label1, label2, y, title):
     fig = plt.figure()
     plt.style.use('dark_background')
     plt.rcParams["figure.figsize"] = (10, 10)
     plt.plot(y)
-    plt.title(label1 + "  vs  " + label2)
+    plt.title(title + " : "+label1 + "  vs  " + label2)
     plt.xlabel(label2)
     plt.ylabel(label1)
     plt.show()
@@ -112,6 +112,7 @@ def plot2d(label1, label2, y):
 def plot3d(x, y, z, label1, label2, label3):
     fig = plt.figure()
     plt.style.use('dark_background')
+    plt.title(title + " : " + label1 + "  vs  " + label2 + " vs "+ label3)
     plt.rcParams["figure.figsize"] = (10, 10)
     ax = plt.axes(projection='3d')
     ax.plot3D(x, y, z, 'red')
