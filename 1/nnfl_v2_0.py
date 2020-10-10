@@ -1341,3 +1341,23 @@ print("Total accuracy: ", total_accuracy)
 print("Class 1 accuracy: ", c1)
 print("Class 2 accuracy: ", c2)
 print("Class 3 accuracy: ", c3)
+
+"""<h3> Q13 </h3>
+<hr>
+<ul> I learnt a lot from this assingment , almost everything I implemented here is something I learnt along the way. Some of my major learnings include : <br>
+<li>The various forms of supervised and unsupervised learning , and how they differ and are yet important</li>
+<li>Learn regression and the various ways in which we can do it , like <br> <ul><li>Linear regression </li><li>Ridge regression </li><li>Least Angle regression </li><li>Logistic regression regression </li></ul></li>
+<li>How the various normalization methods (like least angle regression , ridge regression) work , and how they actually help us achieve much more accurate results
+<li>Various methods to implement our regression techniques on a given data , such as <ul><li>Batch gradient Descent </li> <li>Mini-Batch gradient Descent </li> <li>Stochastic gradient Descent </li> </ul></li>
+<li>I learnt solving classification problems for the first time , how we can separate them and implement various algorithms like K-means clustering and Logistic Regression on them.</li>
+<li> In addition , I also learnt how we can use logistic regression for binary classification and Multiclass classification using the various validation techniques such as <ul><li>60:40 holdout technique</li> <li> 70:30 holdout technique <li> The 5 fold cross-validation</li> </ul> 
+<li>Finally , I also learnt about the following classifier techniques and how they work <ul><li>Likelihood Ratio Test</li><li>Maximum a posteriori (MAP) </li><li> Maximum Likelihood (ML) </li></li>
+</ul></ul>
+<br>
+<ul> References 
+<li> <a href="https://www.geeksforgeeks.org/">GeeksForGeeks</a> </li>
+<li> <a href="https://towardsdatascience.com/">towardsdatascience</a> </li>
+<li> <a href="https://medium.com/">Medium</a></li>
+
+<h5 style="colour:black">An online copy of this colab has been saved as a github repository <a href="https://github.com/Param-Bhatt/NNFL-Assignment">here </a></h5>
+"""
