@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="e5d586bf-9d79-40da-afe5-9eb4157cd437" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/NNFL-Assignments.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NNFL-Assignments.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/other.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1/1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1/data2.xlsx - Sheet1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/1/data2.xlsx - Sheet1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1/data3.xlsx - Sheet1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/1/data3.xlsx - Sheet1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1/data4.xlsx - Sheet1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/1/data4.xlsx - Sheet1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/data2.xlsx - Sheet1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/data3.xlsx - Sheet1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/data4.xlsx - Sheet1.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/1/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/1/functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1/test_feature_matrix.csv" beforeDir="false" afterPath="$PROJECT_DIR$/1/test_feature_matrix.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1/test_output.csv" beforeDir="false" afterPath="$PROJECT_DIR$/1/test_output.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1/training_feature_matrix.csv" beforeDir="false" afterPath="$PROJECT_DIR$/1/training_feature_matrix.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1/training_output.csv" beforeDir="false" afterPath="$PROJECT_DIR$/1/training_output.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,11 +44,18 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="C:/xampp/htdocs/vgl-iisc/vgl/templates" />
     <property name="python.debugger.dataview.autoresize" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Q7">
     <configuration name="1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="NNFL-Assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -65,6 +72,50 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1/1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Q6" type="PythonConfigurationType" factoryName="Python">
+      <module name="NNFL-Assignments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\PARAM BHATT\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1/Q6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Q7" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="NNFL-Assignments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\PARAM BHATT\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1/Q7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -93,8 +144,36 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python">
+      <module name="NNFL-Assignments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.1" />
+      <item itemvalue="Python.Q6" />
+      <item itemvalue="Python.Q7" />
+      <item itemvalue="Python.main" />
+    </list>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -108,82 +187,113 @@
       <workItem from="1599915831303" duration="85000" />
       <workItem from="1599915918326" duration="25208000" />
       <workItem from="1600000719040" duration="3885000" />
+      <workItem from="1601017435864" duration="7363000" />
+      <workItem from="1601123758780" duration="798000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="496" y="28" key="#1" timestamp="1599917012061">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="496" y="28" key="#1/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1599917012061" />
-    <state x="223" y="68" width="1084" height="873" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600000762370">
+    <state x="223" y="0" width="1084" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601020917817">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1600000762370" />
+    <state x="223" y="0" width="1084" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1601020917817" />
+    <state x="279" y="28" width="1355" height="980" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.28.1920.980@0.28.1920.980" timestamp="1600734663152" />
     <state x="1645" y="89" width="1084" height="873" key="#com.intellij.execution.impl.EditConfigurationsDialog/1366.0.1920.1080/0.75.1366.768@1366.0.1920.1080" timestamp="1599978381992" />
-    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1599917947580">
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1601123957628">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1599917947580" />
-    <state width="1493" height="164" key="GridCell.Tab.0.bottom" timestamp="1600509031881">
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601123957628" />
+    <state x="686" y="228" key="FileChooserDialogImpl/0.28.1920.980@0.28.1920.980" timestamp="1600710679977" />
+    <state width="1493" height="265" key="GridCell.Tab.0.bottom" timestamp="1601027081835">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="164" key="GridCell.Tab.0.bottom/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1600000886839" />
-    <state width="1493" height="164" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600509031881" />
+    <state width="1493" height="265" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601027081835" />
+    <state width="1884" height="276" key="GridCell.Tab.0.bottom/0.28.1920.980@0.28.1920.980" timestamp="1600736995939" />
     <state width="1330" height="181" key="GridCell.Tab.0.bottom/1366.0.1920.1080/0.75.1366.768@0.75.1366.768" timestamp="1599980705954" />
     <state width="1884" height="175" key="GridCell.Tab.0.bottom/1366.0.1920.1080/0.75.1366.768@1366.0.1920.1080" timestamp="1599984208951" />
-    <state width="1493" height="164" key="GridCell.Tab.0.center" timestamp="1600509031880">
+    <state width="1493" height="265" key="GridCell.Tab.0.center" timestamp="1601027081834">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="164" key="GridCell.Tab.0.center/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1600000886839" />
-    <state width="1493" height="164" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600509031880" />
+    <state width="1493" height="265" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601027081834" />
+    <state width="1884" height="276" key="GridCell.Tab.0.center/0.28.1920.980@0.28.1920.980" timestamp="1600736995938" />
     <state width="1330" height="181" key="GridCell.Tab.0.center/1366.0.1920.1080/0.75.1366.768@0.75.1366.768" timestamp="1599980705954" />
     <state width="1884" height="175" key="GridCell.Tab.0.center/1366.0.1920.1080/0.75.1366.768@1366.0.1920.1080" timestamp="1599984208950" />
-    <state width="1493" height="164" key="GridCell.Tab.0.left" timestamp="1600509031878">
+    <state width="1493" height="265" key="GridCell.Tab.0.left" timestamp="1601027081834">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="164" key="GridCell.Tab.0.left/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1600000886839" />
-    <state width="1493" height="164" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600509031878" />
+    <state width="1493" height="265" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601027081834" />
+    <state width="1884" height="276" key="GridCell.Tab.0.left/0.28.1920.980@0.28.1920.980" timestamp="1600736995938" />
     <state width="1330" height="181" key="GridCell.Tab.0.left/1366.0.1920.1080/0.75.1366.768@0.75.1366.768" timestamp="1599980705954" />
     <state width="1884" height="175" key="GridCell.Tab.0.left/1366.0.1920.1080/0.75.1366.768@1366.0.1920.1080" timestamp="1599984208949" />
-    <state width="1493" height="164" key="GridCell.Tab.0.right" timestamp="1600509031880">
+    <state width="1493" height="265" key="GridCell.Tab.0.right" timestamp="1601027081834">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="164" key="GridCell.Tab.0.right/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1600000886839" />
-    <state width="1493" height="164" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600509031880" />
+    <state width="1493" height="265" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601027081834" />
+    <state width="1884" height="276" key="GridCell.Tab.0.right/0.28.1920.980@0.28.1920.980" timestamp="1600736995939" />
     <state width="1330" height="181" key="GridCell.Tab.0.right/1366.0.1920.1080/0.75.1366.768@0.75.1366.768" timestamp="1599980705954" />
     <state width="1884" height="175" key="GridCell.Tab.0.right/1366.0.1920.1080/0.75.1366.768@1366.0.1920.1080" timestamp="1599984208950" />
-    <state width="1884" height="265" key="GridCell.Tab.1.bottom" timestamp="1599984152898">
-      <screen x="1366" y="0" width="1920" height="1080" />
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1601027081835">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1599977301991" />
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601027081835" />
+    <state width="1884" height="276" key="GridCell.Tab.1.bottom/0.28.1920.980@0.28.1920.980" timestamp="1600736995940" />
     <state width="1884" height="265" key="GridCell.Tab.1.bottom/1366.0.1920.1080/0.75.1366.768@1366.0.1920.1080" timestamp="1599984152898" />
-    <state width="1884" height="265" key="GridCell.Tab.1.center" timestamp="1599984152898">
-      <screen x="1366" y="0" width="1920" height="1080" />
+    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1601027081835">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1599977301991" />
+    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1601027081835" />
+    <state width="1884" height="276" key="GridCell.Tab.1.center/0.28.1920.980@0.28.1920.980" timestamp="1600736995940" />
     <state width="1884" height="265" key="GridCell.Tab.1.center/1366.0.1920.1080/0.75.1366.768@1366.0.1920.1080" timestamp="1599984152898" />
-    <state width="1884" height="265" key="GridCell.Tab.1.left" timestamp="1599984152898">
-      <screen x="1366" y="0" width="1920" height="1080" />
+    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1601027081835">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1599977301991" />
+    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1601027081835" />
+    <state width="1884" height="276" key="GridCell.Tab.1.left/0.28.1920.980@0.28.1920.980" timestamp="1600736995939" />
     <state width="1884" height="265" key="GridCell.Tab.1.left/1366.0.1920.1080/0.75.1366.768@1366.0.1920.1080" timestamp="1599984152898" />
-    <state width="1884" height="265" key="GridCell.Tab.1.right" timestamp="1599984152898">
-      <screen x="1366" y="0" width="1920" height="1080" />
+    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1601027081835">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1599977301991" />
+    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1601027081835" />
+    <state width="1884" height="276" key="GridCell.Tab.1.right/0.28.1920.980@0.28.1920.980" timestamp="1600736995940" />
     <state width="1884" height="265" key="GridCell.Tab.1.right/1366.0.1920.1080/0.75.1366.768@1366.0.1920.1080" timestamp="1599984152898" />
     <state x="277" y="56" key="SettingsEditor" timestamp="1599940045084">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="56" key="SettingsEditor/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1599940045084" />
-    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1600000722326">
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1601123857535">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1600000722326" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1601123857535" />
     <state x="93" y="93" width="1350" height="638" maximized="true" key="dock-window-1" timestamp="1599916235905">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -192,9 +302,27 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" key="dock-window-2/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1599916331095" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1599940564303">
+    <state x="431" y="145" width="672" height="679" key="search.everywhere.popup" timestamp="1601019447094">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-1366.0.1366.728@0.0.1536.824" timestamp="1599940564303" />
+    <state x="431" y="145" width="672" height="679" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1601019447094" />
+    <state x="539" y="200" width="840" height="807" key="search.everywhere.popup/0.28.1920.980@0.28.1920.980" timestamp="1600734895833" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1/Q7.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1/Q7.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
